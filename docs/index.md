@@ -25,12 +25,14 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
 
 * Type command `slmgr /skms kms8.msguides.com` that command to connect to kms server, after a popup appears like in the picture below.
 <p align="center">
-  <img src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/90b6f8d1c707e74ccd7b621a017cdc004b215efa/img/kms.PNG">
+  <img src="https://user-images.githubusercontent.com/49254668/123150300-68946e00-d48c-11eb-8d78-cb015d4b6433.PNG">
 </p>
 
 * Last step type command `slmgr /ato` to activate windows 10 license.
-* And voilaa !! your windows activated :point_down:
-![Stepato](https://user-images.githubusercontent.com/49254668/123150121-3551df00-d48c-11eb-835b-12b8260eb0ea.PNG)
+* And voilaa !! your windows activated.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49254668/123150121-3551df00-d48c-11eb-835b-12b8260eb0ea.PNG">
+</p>
 
 ## Wanna Support me ? You can buy me some coffee via [PayPal](https://www.paypal.com/paypalme/haialipp).
 For more details you can see here [License Windows 10 Repo](https://github.com/zoelabbb/Serial-Key-Windows-10.git).
