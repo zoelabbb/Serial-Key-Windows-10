@@ -19,8 +19,9 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
 * You can watch my video here for more details [Channel Urproject](https://youtu.be/InADUPpjOok).
 * Open your `Command Prompt (CMD)` and `Run as administrator`.
 * Type command `slmgr /ipk yourlicensekey` the command to install license, after a popup appears like in the picture below.
+![Img](https://github.com/zoelabbb/Serial-Key-Windows-10/blob/90b6f8d1c707e74ccd7b621a017cdc004b215efa/img/ipk.PNG)
 <p align="center">
-  <img src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/90b6f8d1c707e74ccd7b621a017cdc004b215efa/img/ipk.PNG">
+  <img src="">
 </p>
 
 * Type command `slmgr /skms kms8.msguides.com` that command to connect to kms server, after a popup appears like in the picture below.
