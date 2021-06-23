@@ -30,9 +30,7 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
 
 * Last step type command `slmgr /ato` to activate windows 10 license.
 * And voilaa !! your windows activated :point_down:
-<p align="center">
-  <img width="650px" height="auto" src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/04a7703a6da9d1beaca747bcb10c9997053bbed5/img/Stepato.PNG">
-</p>
+![Stepato](https://user-images.githubusercontent.com/49254668/123150121-3551df00-d48c-11eb-835b-12b8260eb0ea.PNG)
 
 ## Wanna Support me ? You can buy me some coffee via [PayPal](https://www.paypal.com/paypalme/haialipp).
 For more details you can see here [License Windows 10 Repo](https://github.com/zoelabbb/Serial-Key-Windows-10.git).
