@@ -1,9 +1,9 @@
-# Serial Key Windows 10
+# :memo: Serial Key Windows 10
 In here I will show you how to activate windows using the KMS method, make sure you have an _`internet connection`_ and already know what _`windows you are using.`_
 
 Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this license `NPPR9-FWDCX-D2C8J-H872K-2YT43`. Or you can watch my video here [Channel Urproject](https://youtu.be/InADUPpjOok).
 
-#### Here's a list of Windows 10 licenses :
+#### :mag_right: Here's a list of Windows 10 licenses :
     Home                  : TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
     Home N                : 3KHY7-WNT83-DGQKR-F7HPR-844BM
     Home Single Language  : 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
@@ -15,8 +15,8 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
     Enterprise            : NPPR9-FWDCX-D2C8J-H872K-2YT43
     Enterprise N          : DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
     
-# How To Use
-* You can watch my video here for more details [Channel Urproject](https://youtu.be/InADUPpjOok).
+# :hammer_and_wrench: How To Use
+* You can watch my video here for more details :point_right: [Channel Urproject](https://youtu.be/InADUPpjOok).
 * Open your `Command Prompt (CMD)` and `Run as administrator`.
 * Type command `slmgr /ipk yourlicensekey` the command to install license, after a popup appears like in the picture below.
 <p align="center">
@@ -34,5 +34,5 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
   <img width="650px" height="auto" src="https://github.com/zoelabbb/Serial-Key-Windows-10/blob/04a7703a6da9d1beaca747bcb10c9997053bbed5/img/Stepato.PNG">
 </p>
 
-## Wanna Support me ? You can buy me some coffee via [PayPal](https://www.paypal.com/paypalme/haialipp).
+## :green_circle: Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
 For more details you can see here [License Windows 10 Repo](https://github.com/zoelabbb/Serial-Key-Windows-10.git).
