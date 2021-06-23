@@ -36,3 +36,5 @@ Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this licen
 
 ## :green_circle: Wanna Support me ? You can buy me some coffee via [PayPal :coffee:](https://www.paypal.com/paypalme/haialipp).
 For more details you can see here [License Windows 10 Repo](https://github.com/zoelabbb/Serial-Key-Windows-10.git).
+
+Let's connect with me [Keybase](https://keybase.io/zoelabbb)
