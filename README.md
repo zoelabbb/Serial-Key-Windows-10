@@ -1,4 +1,4 @@
-# :memo: Serial Key Windows 10
+# [:memo: Serial Key Windows 10](https://zoelabbb.github.io/Serial-Key-Windows-10/).
 In here I will show you how to activate windows using the KMS method, make sure you have an _`internet connection`_ and already know what _`windows you are using.`_
 
 Soo.. in this case, I'm using _**`Windows Enterprise`**_ and I'll use this license `NPPR9-FWDCX-D2C8J-H872K-2YT43`. Or you can watch my video here [Channel Urproject](https://youtu.be/InADUPpjOok).
